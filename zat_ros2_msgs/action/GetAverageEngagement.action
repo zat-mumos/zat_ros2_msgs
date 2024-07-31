@@ -1,0 +1,10 @@
+# goal
+float64 start_time
+float64 end_time
+---
+# result
+float64[] timestamps
+float64[] avg_engagement
+---
+# feedback
+string feedback_msg
