@@ -18,9 +18,9 @@ find_package(vision_msgs REQUIRED)
 find_package(action_msgs REQUIRED)
 
 set(msg_files
-  "msg/perception/Face.msg"
-  "msg/perception/Faces.msg"
-  "msg/perception/FaceActionUnit.msg"
+  "perception/Face.msg"
+  "perception/Faces.msg"
+  "perception/FaceActionUnit.msg"
 )
 
 
