@@ -21,6 +21,10 @@ set(msg_files
   "perception/Face.msg"
   "perception/Faces.msg"
   "perception/FaceActionUnit.msg"
+  "mediapipe/FaceMediapipe.msg"
+  "mediapipe/FacesMediapipe.msg"
+  "mediapipe/Pose.msg"
+  "mediapipe/Poses.msg"
 )
 
 
