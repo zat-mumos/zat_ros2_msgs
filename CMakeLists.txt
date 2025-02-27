@@ -25,6 +25,7 @@ set(msg_files
   "mediapipe/FacesMediapipe.msg"
   "mediapipe/Pose.msg"
   "mediapipe/Poses.msg"
+  "mediapipe/EngagementScore.msg"
 )
 
 
