@@ -26,6 +26,8 @@ set(msg_files
   "mediapipe/Pose.msg"
   "mediapipe/Poses.msg"
   "mediapipe/EngagementScore.msg"
+  "mediapipe/EmotionRecognition.msg"
+  "mediapipe/Emotion.msg"
 )
 
 
