@@ -23,11 +23,11 @@ set(msg_files
   "perception/FaceActionUnit.msg"
   "mediapipe/FaceMediapipe.msg"
   "mediapipe/FacesMediapipe.msg"
-  "mediapipe/Pose.msg"
-  "mediapipe/Poses.msg"
-  "mediapipe/EngagementScore.msg"
-  "mediapipe/EmotionRecognition.msg"
-  "mediapipe/Emotion.msg"
+  "perception/Pose.msg"
+  "perception/Poses.msg"
+  "perception/EngagementScore.msg"
+  "perception/Emotion.msg"
+  "perception/Emotions.msg"
 )
 
 
