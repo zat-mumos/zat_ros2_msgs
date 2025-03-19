@@ -1,3 +1,8 @@
 std_msgs/Header header
 
-float64 score
+float64 engagement
+float64 orientation_score
+float64 emotion_score
+float64 gaze_score
+float64 posture_score
+float64 proximity_score
