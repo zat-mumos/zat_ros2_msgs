@@ -28,6 +28,7 @@ set(msg_files
   "perception/EngagementScore.msg"
   "perception/Emotion.msg"
   "perception/Emotions.msg"
+  "physio_sensor/PhysioSensor.msg"
 )
 
 
