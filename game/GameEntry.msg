@@ -9,6 +9,6 @@ uint8 id
 uint8 questions_total
 string question
 GameAnswer[] answers
-GameAnswer answer
+string answer
 uint8 result
 uint8 result_final
