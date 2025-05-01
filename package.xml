@@ -3,7 +3,8 @@
 <package format="3">
   <name>zat_ros2_msgs</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>ROS2 package with message definitons used for ZAT</description>
+  <maintainer email="michal.stolarz@h-brs.de">Michal Stolarz</maintainer>
   <maintainer email="oviyarajavel@gmail.com">Oviya Rajavel</maintainer>
   <license>TODO: License declaration</license>
 
