@@ -1,2 +1,2 @@
-std_msgs/Header movella
-Sensor[] movella_data 
+std_msgs/Header header
+MovellaSensor[] data 
