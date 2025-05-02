@@ -30,6 +30,8 @@ set(msg_files
   "perception/Emotions.msg"
   "physio_sensor/PhysioSensor.msg"
   "movella_sensor/Imu.msg"
+  "movella_sensor/MovellaData.msg"
+  "movella_sensor/Sensor.msg"
 )
 
 
