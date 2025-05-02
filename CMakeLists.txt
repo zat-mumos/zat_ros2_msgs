@@ -32,6 +32,7 @@ set(msg_files
   "movella_sensor/Imu.msg"
   "game/GameAnswer.msg"
   "game/GameEntry.msg"
+  "game/GameEntryResult.msg"
 )
 
 

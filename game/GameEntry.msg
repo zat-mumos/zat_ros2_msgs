@@ -10,5 +10,5 @@ uint8 questions_total
 string question
 GameAnswer[] answers
 string answer
-uint8 result
-uint8 result_final
+int8 result
+int8 result_final
