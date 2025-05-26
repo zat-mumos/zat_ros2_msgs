@@ -33,7 +33,7 @@ set(msg_files
   "movella_sensor/MovellaData.msg"
   "movella_sensor/MovellaSensor.msg"
   "physio_sensor/Esense.msg"
-  "zat_consor_synch/Zat_consor_synch.msg"
+  "zat_consor/ZatConsorSynch.msg"
 )
 
 
