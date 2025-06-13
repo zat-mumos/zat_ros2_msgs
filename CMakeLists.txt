@@ -35,6 +35,8 @@ set(msg_files
   "game/GameAnswer.msg"
   "game/GameEntry.msg"
   "game/GameEntryResult.msg"
+  "physio_sensor/Esense.msg"
+  "zat_consor/ZatConsorSynch.msg"
 )
 
 
