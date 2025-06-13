@@ -1,4 +1,4 @@
 std_msgs/Header header
 
-uint8 id
+int8 id
 string answer
