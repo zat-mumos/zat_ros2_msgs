@@ -4,8 +4,8 @@ uint8 IDLE=1
 uint8 PENDING=2
 uint8 STOP=3
 
+int32 id
 uint8 state
-int8 id
 uint8 questions_total
 string question
 GameAnswer[] answers
