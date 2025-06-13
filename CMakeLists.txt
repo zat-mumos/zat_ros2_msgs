@@ -32,6 +32,9 @@ set(msg_files
   "movella_sensor/MovellaImu.msg"
   "movella_sensor/MovellaData.msg"
   "movella_sensor/MovellaSensor.msg"
+  "game/GameAnswer.msg"
+  "game/GameEntry.msg"
+  "game/GameEntryResult.msg"
   "physio_sensor/Esense.msg"
   "zat_consor/ZatConsorSynch.msg"
 )
