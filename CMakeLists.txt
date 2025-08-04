@@ -45,9 +45,13 @@ set(action_files
   "action/GetAverageEngagement.action"
 )
 
+set(srv_files
+  "srv/RagLanguageGame.srv"
+)
+
 rosidl_generate_interfaces(${PROJECT_NAME}
   ${msg_files}
-  # ${srv_files}
+  ${srv_files}
   ${action_files}
   DEPENDENCIES std_msgs geometry_msgs sensor_msgs vision_msgs action_msgs
 )

@@ -1,0 +1,12 @@
+std_msgs/Header header
+
+int32 id
+string question
+GameAnswer[] available_answers
+string student_answer_type
+
+---
+
+int32 id
+string type
+string content
