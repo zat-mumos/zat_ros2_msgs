@@ -1,0 +1,18 @@
+image: rwthika/ros2-ml:humble-desktop-full-tf2.18.0-torch2.5.0
+
+before_script:
+  - apt-get update && apt-get install -y
+
+stages:
+  - build
+
+colcon:
+  stage: build
+  script:
+    - cd ..
+    - mkdir -p zat_ws/src
+    - mv -n zat_ros2_msgs zat_ws/src/
+    - cd zat_ws
+    - colcon build
+
+
