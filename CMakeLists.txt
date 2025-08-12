@@ -37,6 +37,7 @@ set(msg_files
   "game/GameEntryResult.msg"
   "physio_sensor/Esense.msg"
   "zat_consor/ZatConsorSynch.msg"
+  "emotibit_sensor/EmotibitStream.msg"
 )
 
 
