@@ -38,6 +38,8 @@ set(msg_files
   "physio_sensor/Esense.msg"
   "zat_consor/ZatConsorSynch.msg"
   "emotibit_sensor/EmotibitStream.msg"
+  "saver/TopicInfo.msg"
+  "saver/TopicList.msg"
 )
 
 
