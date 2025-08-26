@@ -42,6 +42,8 @@ set(msg_files
   "saver/TopicList.msg"
   "consor/emotibit_sensor/brainflow/EmotibitData.msg"
   "consor/emotibit_sensor/brainflow/EmotibitMsg.msg"
+  "consor/openbci_sensor/Bci.msg"
+  "consor/openbci_sensor/BciData.msg"
 )
 
 
