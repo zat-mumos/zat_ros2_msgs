@@ -28,14 +28,14 @@ set(msg_files
   "perception/EngagementScore.msg"
   "perception/Emotion.msg"
   "perception/Emotions.msg"
-  "consor/esense/physio_sensor_ble/PhysioSensor.msg"
+  "consor/esense_sensor/ble/EsenseBLEStream.msg"
   "consor/movella_sensor/MovellaImu.msg"
   "consor/movella_sensor/MovellaData.msg"
   "consor/movella_sensor/MovellaSensor.msg"
   "game/GameAnswer.msg"
   "game/GameEntry.msg"
   "game/GameEntryResult.msg"
-  "consor/esense/physio_sensor_ble/Esense.msg"
+  "consor/esense_sensor/ble/EsenseBLE.msg"
   "consor/ZatConsorSynch.msg"
   "consor/emotibit_sensor/pylsl/EmotibitStream.msg"
   "saver/TopicInfo.msg"
@@ -45,8 +45,8 @@ set(msg_files
   "consor/emotibit_sensor/brainflow/EmotibitSynchData.msg"
   "consor/openbci_sensor/Bci.msg"
   "consor/openbci_sensor/BciData.msg"
-  "consor/esense/esense_pkg_lsl/EsenseData.msg"
-  "consor/esense/esense_pkg_lsl/EsenseStream.msg"
+  "consor/esense_sensor/lsl/EsenseLSL.msg"
+  "consor/esense_sensor/lsl/EsenseLSLStream.msg"
 )
 
 

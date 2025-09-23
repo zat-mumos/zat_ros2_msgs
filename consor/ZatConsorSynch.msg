@@ -1,5 +1,5 @@
 std_msgs/Header header
 
-PhysioSensor[] esense_data
+EsenseBLEStream[] esense_data
 MovellaData[] movella_data
 EmotibitSynchData[] emotibit_data
