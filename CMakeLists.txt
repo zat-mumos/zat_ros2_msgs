@@ -45,7 +45,7 @@ set(msg_files
   "consor/openbci_sensor/BciData.msg"
   "consor/esense_sensor/Esense.msg"
   "consor/esense_sensor/EsenseStream.msg"
-  "consor/Sync.msg"
+  "consor/DataPoint.msg"
   "consor/SynchedData.msg"
 )
 
