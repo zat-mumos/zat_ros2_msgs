@@ -46,7 +46,7 @@ set(msg_files
   "consor/esense_sensor/Esense.msg"
   "consor/esense_sensor/EsenseStream.msg"
   "consor/DataPoint.msg"
-  "consor/SynchedData.msg"
+  "consor/SynchData.msg"
 )
 
 
