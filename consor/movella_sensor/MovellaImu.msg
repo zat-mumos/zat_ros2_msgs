@@ -2,3 +2,16 @@ std_msgs/Header header
 float64 roll
 float64 pitch
 float64 yaw
+float64 quat_x
+float64 quat_y
+float64 quat_z
+float64 quat_w
+float64 ax
+float64 ay
+float64 az
+float64 gyro_x
+float64 gyro_y
+float64 gyro_z
+float64 mag_x
+float64 mag_y
+float64 mag_z
