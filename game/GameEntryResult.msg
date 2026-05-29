@@ -7,3 +7,4 @@ std_msgs/Header header
 int32 id
 string answer
 uint8 state
+string selected_question_list
