@@ -12,4 +12,5 @@ GameAnswer[] answers
 string answer
 int8 result
 int8 result_final
+string[] question_lists
 string selected_question_list
