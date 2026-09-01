@@ -1,0 +1,13 @@
+MuMoS (Multimodal Mobile Sensors)
+© 2026 Hochschule Bonn-Rhein-Sieg
+
+This product is released under the terms of the
+GNU General Public License version 3 or any later version.
+
+This product includes software developed by Braden McDorman 
+(https://github.com/interaction-lab/openface_ros).
+
+The following files are avilabe under the BSD-3-Clause :
+
+perception/Face.msg
+perception/FaceActionUnit.msg

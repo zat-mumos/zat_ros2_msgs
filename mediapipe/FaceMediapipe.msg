@@ -14,8 +14,7 @@
 # with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # FaceMediapipe.msg - Message containing a facial landmark
-# Authors: 
-# Oviya Rajavel <oviya.rajavel@smail.inf.h-brs.de>
+# Authors: Oviya Rajavel <oviya.rajavel@smail.inf.h-brs.de>
 
 std_msgs/Header header
 
