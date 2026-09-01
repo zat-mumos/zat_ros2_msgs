@@ -14,6 +14,7 @@
 # with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # Faces.msg - Message containing  array of facial landmark
+# Author: Michal Stolarz <michal.stolarz@h-brs.de>
 
 std_msgs/Header header
 # faces - Array of detected faces
