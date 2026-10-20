@@ -22,5 +22,5 @@ std_msgs/Header header
 string stream_name
 # timestamp - Array of timestamps
 builtin_interfaces/Time[] timestamp
-sensor_data - Array of emotibit sensor data
+# sensor_data - Array of emotibit sensor data
 float64[] sensor_data
