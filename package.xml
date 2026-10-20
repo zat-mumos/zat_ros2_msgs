@@ -20,7 +20,6 @@
   <description>ROS2 package with message definitons used for ZAT</description>
   <maintainer email="michal.stolarz@h-brs.de">Michal Stolarz</maintainer>
   <maintainer email="oviyarajavel@gmail.com">Oviya Rajavel</maintainer>
-  <license>TODO: License declaration</license>
 
   <license>GPLv3</license>
 
