@@ -31,6 +31,7 @@ colcon:
     - mkdir -p zat_ws/src
     - mv -n zat_ros2_msgs zat_ws/src/
     - cd zat_ws
+    - rm -rf /log /install /build
     - colcon build
 
 
