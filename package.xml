@@ -1,4 +1,18 @@
 <?xml version="1.0"?>
+<!-- © 2026 Hochschule Bonn-Rhein-Sieg <https://www.h-brs.de/> -->
+<!-- This program is free software: you can redistribute it and/or modify it 
+ under the terms of the GNU General Public License as published by the 
+ Free Software Foundation, either version 3 of the License, or (at your 
+ option) any later version.
+
+ This program is distributed in the hope that it will be useful, but 
+ WITHOUT ANY WARRANTY; without even the implied warranty of 
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General 
+ Public License for more details.
+
+ You should have received a copy of the GNU General Public License along 
+ with this program. If not, see <https://www.gnu.org/licenses/>. -->
+ 
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>zat_ros2_msgs</name>
@@ -6,7 +20,6 @@
   <description>ROS2 package with message definitons used for ZAT</description>
   <maintainer email="michal.stolarz@h-brs.de">Michal Stolarz</maintainer>
   <maintainer email="oviyarajavel@gmail.com">Oviya Rajavel</maintainer>
-  <license>TODO: License declaration</license>
 
   <license>GPLv3</license>
 
